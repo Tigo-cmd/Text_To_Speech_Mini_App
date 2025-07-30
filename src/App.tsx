@@ -106,7 +106,7 @@ function App() {
           
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             Transform your text into natural-sounding speech with advanced AI voices. 
-            Perfect for content creation, accessibility, and learning.
+            Choose from a variety of voices and languages, and enjoy seamless audio playback.
           </p>
         </header>
 
@@ -183,7 +183,7 @@ function App() {
 
         {/* Footer */}
         <footer className="text-center mt-12 text-gray-500 dark:text-gray-400 text-sm">
-          <p>Built with React, TypeScript, and modern web technologies</p>
+          <p>Built with React, TypeScript, TigoSofts technologies</p>
         </footer>
       </div>
     </div>
