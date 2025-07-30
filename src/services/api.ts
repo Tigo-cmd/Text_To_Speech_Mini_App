@@ -1,6 +1,6 @@
 import { TTSRequest, TTSResponse, Voice, TTSError } from '../types/tts';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'emmanueltigo.pythonanywhere.com/';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://emmanueltigo.pythonanywhere.com//';
 const MAX_RETRIES = 10;
 const RETRY_DELAY = 2000; // 2 seconds
 const REQUEST_TIMEOUT = 30000; // 30 seconds
